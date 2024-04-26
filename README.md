@@ -1,4 +1,4 @@
-# <image src="img/hair-woman.png" width="40" > Hello, I'm Frede 
+# <image src="img/hair-woman.png" width="40" > Hello, I'm Frede <image src="img/heart.png" width="40" >
 I'm a 23-year-old student in Czech Republic - Brno at VUT FIT, Faculty of Information Technology.
 
 - Check out my [website](https://kmetovafrede.github.io) to learn more about me.
@@ -24,5 +24,5 @@ For 7 years, I was a camper, after that I became a camp counselor for 2 years an
 I have a unique talent — I can lick my own elbow.
 
 
-## <image src="img/contact.png" width="30" > 📫 Contact
+## <image src="img/contact.png" width="30" > Contact
 - [LinkedIn](https://www.linkedin.com/in/kmetovaf/)
