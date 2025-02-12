@@ -6,15 +6,15 @@ I'm a 23-year-old student in Czech Republic - Brno at VUT FIT, Faculty of Inform
 
 
 ## <image src="img/tools.png" width="30" > Toolbox
-Frontend Development: HTML, CSS, JavaScript, Swift, Flutter
+Frontend Development: HTML, CSS, JavaScript, Swift, Flutter, React Native, TypeScript
 
-Backend Development: JavaScript, Python, SQL
+Backend Development: JavaScript, Python, SQL, PHP, Laravel
 
-Version Control: GitHub
+Version Control: Git
 
-Others: C, C#, C++ 
+Others: C, C#, C++, VHDL, Shell Scripting
 
-Mockup: Nucleo, Figma, Miro, Microsoft Whiteboard
+Mockup:  Nucleo, Figma, Miro, Canva, Trello
 
 ## <image src="img/star.png" width="30" > Fun Facts
 When I was smaller, I wanted to be a meteorologist and then a police officer.
