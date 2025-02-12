@@ -1,5 +1,5 @@
 # <image src="img/hair-woman.png" width="40" > Hello, I'm Frede <image src="img/heart.png" width="40" >
-I'm a 23-year-old student in Czech Republic - Brno at VUT FIT, Faculty of Information Technology.
+I'm a 23-year-old girl living in Czech Republic and I studied at Brno at VUT FIT, Faculty of Information Technology.
 
 - Check out my [website](https://kmetovafrede.github.io) to learn more about me.
 - Go through my [github](https://github.com/kmetovafrede) to see my work.
