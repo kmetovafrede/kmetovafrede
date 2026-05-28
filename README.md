@@ -1,5 +1,5 @@
 # <image src="img/hair-woman.png" width="40" > Hello, I'm Frede <image src="img/heart.png" width="40" >
-I'm a 23-year-old girl living in Czech Republic and I studied at Brno at VUT FIT, Faculty of Information Technology.
+I'm a 25-year-old girl living in Czech Republic and I studied at Brno at VUT FIT, Faculty of Information Technology.
 
 - Check out my [website](https://kmetovafrede.github.io) to learn more about me.
 - Go through my [github](https://github.com/kmetovafrede) to see my work.
@@ -14,7 +14,7 @@ Version Control: Git
 
 Others: C, C#, C++, VHDL, Shell Scripting
 
-Mockup:  Nucleo, Figma, Miro, Canva, Trello
+Mockup:  Nucleo, Figma, Miro, Canva, Trello, Photoshop
 
 ## <image src="img/star.png" width="30" > Fun Facts
 When I was smaller, I wanted to be a meteorologist and then a police officer.
